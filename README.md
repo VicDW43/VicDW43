@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-<img src="assets/running-cat.svg" width="100%" alt="separador">
+<img src="assets/Running-Cat.SVG" width="100%" alt="separador">
 </div>
 
 ## Sobre mí ✨
@@ -51,7 +51,7 @@ const victoria = {
 <br>
 
 <div align="center">
-<img src="assets/running-cat.svg" width="100%" alt="separador">
+<img src="assets/Running-Cat.SVG" width="100%" alt="separador">
 </div>
 
 <div align="center">
@@ -69,7 +69,7 @@ const victoria = {
 </div>
 
 <div align="center">
-<img src="assets/running-cat.svg" width="100%" alt="separador">
+<img src="assets/Running-Cat.SVG" width="100%" alt="separador">
 </div>
 
 ## Formación 🎓
@@ -103,7 +103,7 @@ Carga y actualización de datos médicos y gestión documental en un centro de s
 Auditoría de stock e inventario, arqueo de caja, gestión administrativa y coordinación de equipo.
 
 <div align="center">
-<img src="assets/running-cat.svg" width="100%" alt="separador">
+<img src="assets/Running-Cat.SVG" width="100%" alt="separador">
 </div>
 
 ## Portfolio 🎨
@@ -115,23 +115,9 @@ Antes del código estuvo el diseño, y todavía convive con él. En mi Behance v
 </div>
 
 <div align="center">
-<img src="assets/running-cat.svg" width="100%" alt="separador">
+<img src="assets/Running-Cat.SVG" width="100%" alt="separador">
 </div>
 
-<div align="center">
-
-## GitHub en números 📊
-
-<img src="https://github-readme-stats.vercel.app/api?username=VicDW43&show_icons=true&hide_border=true&bg_color=000000&title_color=FF123C&icon_color=FF123C&text_color=f2f2f2" alt="estadísticas de GitHub" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicDW43&layout=compact&hide_border=true&bg_color=000000&title_color=FF123C&text_color=f2f2f2&langs_count=6" alt="lenguajes más usados" height="165">
-
-<sub>recién arrancando mi camino open source 🌱</sub>
-
-</div>
-
-<div align="center">
-<img src="assets/running-cat.svg" width="100%" alt="separador">
-</div>
 
 <div align="center">
 
