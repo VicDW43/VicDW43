@@ -12,7 +12,6 @@
 <br><br>
 
 <a href="https://www.linkedin.com/in/victoriadewinne/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF123C" alt="LinkedIn"></a>&nbsp;&nbsp;
-<a href="https://www.behance.net/vickydewinne"><img src="https://img.shields.io/badge/Behance-000000?style=for-the-badge&logo=behance&logoColor=FF123C" alt="Behance"></a>&nbsp;&nbsp;
 <a href="mailto:vickydewinne@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF123C" alt="Email"></a>
 
 <br><br>
@@ -50,9 +49,6 @@ const victoria = {
 
 <br>
 
-<div align="center">
-<img src="assets/Running-Cat.SVG" width="100%" alt="separador">
-</div>
 
 <div align="center">
 
@@ -66,44 +62,6 @@ const victoria = {
 <img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=FF123C" alt="Excel">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Google_Workspace-000000?style=for-the-badge&logo=google&logoColor=FF123C" alt="Google Workspace">
 
-</div>
-
-<div align="center">
-<img src="assets/Running-Cat.SVG" width="100%" alt="separador">
-</div>
-
-## Formación 🎓
-
-**Tecnicatura Universitaria en Programación** · Universidad Tecnológica Nacional (UTN)
-`2025 — en curso` · Promedio sostenido entre 8 y 10
-
-**Diseño UX/UI** · Coderhouse
-`2022 — 2023`
-
-**Iniciación al Desarrollo con IA** · BIG School
-`2026`
-
-**Fundamentos de Python** · Talento Tech — Gobierno de la Ciudad de Buenos Aires
-`en curso`
-
-## Experiencia 💼
-
-Mi experiencia formal en código recién empieza, pero estos roles me dieron una base sólida en organización, gestión de datos y trato con personas, algo que hoy se nota en cómo encaro cada proyecto:
-
-**Secretaria Virtual (Freelance)** · Consultorios de Fertilidad y Nutrición
-`mayo 2026 — septiembre 2026`
-Carga de datos médicos, gestión de documentación y agendas, y administración de cobros y facturación para atención virtual de pacientes.
-
-**Secretaria / Recepcionista Administrativa** · Rehaplus
-`noviembre 2025 — enero 2026`
-Carga y actualización de datos médicos y gestión documental en un centro de salud de alta demanda.
-
-**Encargada de Local** · Compañía de Golosinas
-`agosto 2025 — noviembre 2025`
-Auditoría de stock e inventario, arqueo de caja, gestión administrativa y coordinación de equipo.
-
-<div align="center">
-<img src="assets/Running-Cat.SVG" width="100%" alt="separador">
 </div>
 
 ## Portfolio 🎨
