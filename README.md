@@ -12,7 +12,9 @@
 <br><br>
 
 <a href="https://www.linkedin.com/in/victoriadewinne/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF123C" alt="LinkedIn"></a>&nbsp;&nbsp;
-<a href="mailto:vickydewinne@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF123C" alt="Email"></a>
+<a href="mailto:vickydewinne@gmail.com">
+  <img src="https://img.shields.io/badge/✉%20vickydewinne%40gmail.com-000000?style=for-the-badge&logoColor=FF123C" alt="Email">
+</a>
 
 <br><br>
 
