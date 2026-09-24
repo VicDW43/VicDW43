@@ -15,13 +15,9 @@
 <a href="mailto:vickydewinne@gmail.com">
   <img src="https://img.shields.io/badge/✉%20vickydewinne%40gmail.com-000000?style=for-the-badge&logoColor=FF123C" alt="Email">
 </a>
-
 <br><br>
-
 <img src="https://komarev.com/ghpvc/?username=VicDW43&style=for-the-badge&color=FF123C&label=Visitas+al+perfil" alt="visitas al perfil">
-
 </div>
-
 <div align="center">
 <img src="assets/Running-Cat.SVG" width="100%" alt="separador">
 </div>
